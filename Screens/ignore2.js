@@ -6,6 +6,8 @@ import {
   TouchableHighlight,
   SafeAreaView,
   Linking,
+  ImageBackground,
+  Dimensions,
 } from "react-native";
 import { Entypo } from "@expo/vector-icons";
 import { AntDesign } from "@expo/vector-icons";

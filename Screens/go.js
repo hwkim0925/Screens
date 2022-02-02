@@ -15,7 +15,7 @@ import { RowSeparator, RowItem } from "../component/RowItem";
 import { Story } from "../component/Story";
 
 const image = {
-  uri: "https://c8.alamy.com/comp/BWXT5A/old-woman-poverty-ground-bottom-misery-squalor-india-asia-life-lie-BWXT5A.jpg",
+  uri: "https://th.bing.com/th/id/OIP.cBizMSEg8fnwzWpB4zpVigHaFj?pid=ImgDet&rs=1",
 };
 
 const styles = StyleSheet.create({
